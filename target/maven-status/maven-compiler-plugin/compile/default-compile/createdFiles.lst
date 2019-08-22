@@ -1,0 +1,6 @@
+application\repositories\OfferRepository.class
+application\controllers\HelloController.class
+application\model\User.class
+application\service\OfferService.class
+application\model\Offer.class
+application\Application.class
